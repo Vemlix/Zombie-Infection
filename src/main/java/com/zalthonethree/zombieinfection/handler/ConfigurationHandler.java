@@ -18,7 +18,7 @@ public class ConfigurationHandler {
 	private static int spreadDistance = 3;
 	
 	private static int animalInfectionChance = 25;
-	private static int playerInfectionChance = 10;
+	private static int playerInfectionChance = 100;
 	private static int villagerInfectionChance = 25;
 	
 	private static int poisonFoodInfectionChance = 10;
